@@ -1,0 +1,68 @@
+@media screen and (min-width: 768px) {
+	.fast-account-open .descriptin-box {
+		min-height: 230px;
+	}
+	.section {
+		padding: 80px 0px;
+	}
+	.bg-image {
+		padding: 150px 0px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.inner-banner {
+		padding: 120px 0px;
+	}
+	.collection-flex {
+		flex-wrap: wrap;
+	}
+	.collection-box {
+		width: 33.333%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	h4 {
+		font-size: 20px;
+	}
+	.section {
+		padding: 40px 0px;
+	}
+	.bg-image {
+		padding: 75px 0px;
+	}
+	.inner-banner {
+		padding: 100px 0px;
+	}
+	.collection-box {
+		width: 50%;
+	}
+	.dashboard-wrapper .dash-sidebar {
+		min-height: auto;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	h4 {
+		font-size: 18px;
+	}
+	p {
+		font-size: 14px;
+;	}
+	.inner-banner .content-box h1{
+		font-size: 22px;
+	}
+	.list-design  .text {
+		font-size: 14px;
+	}
+	.package-box .icon-box img {
+		width: 40px;
+	}
+	.package-box .title-box h3 {
+		font-size: 18px;
+	}
+}
+
+
+

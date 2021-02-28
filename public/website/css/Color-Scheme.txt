@@ -1,0 +1,11 @@
+Primary BgColor -  #7dc2af
+Secondary BgColor -  #e8a87c
+
+Primary Text Color -  #7dc2af
+Secondary Text Color -  #e8a87c
+
+Primary Button BgColor -  #7EC3B0
+Primary Button Hover BgColor -  #77cab3
+
+Secondary Button BgColor -  #7EC3B0
+Secondary Button Hover BgColor -  #85DCB
